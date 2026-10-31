@@ -1,4 +1,4 @@
-# Dr. Elina Takola
+# Dr. Elina Takola - Postdoctoral researcher
 
 Dr. Elina Takola is an ecologist and data scientist working at the intersection of ecology, conservation, and quantitative methods. Her research focuses on biodiversity, species-habitat relationships, movement ecology, and evidence synthesis, with a strong emphasis on using data-driven approaches to understand ecological patterns and inform conservation decisions.
 
