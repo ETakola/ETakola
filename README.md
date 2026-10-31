@@ -1,4 +1,4 @@
-# ETakola
+# Dr. Elina Takola
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2B4BC&background=0d1117&center=true&vCenter=true&width=700&lines=Ecology+%7C+Data+%7C+Conservation+Science" alt="Typing SVG" />
