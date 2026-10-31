@@ -10,7 +10,7 @@ Dr. Elina Takola is an ecologist and data scientist working at the intersection 
   <a href="https://github.com/ETakola?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-8E4A3B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/ETakola?tab=activity">
-    <img alt="Activity" src="https://img.shields.io/badge/Activity-Recent-7A4D2E?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://etakola.github.io/">
+    <img alt="Personal page" src="https://img.shields.io/badge/Personal%20Page-Visit-7A4D2E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
